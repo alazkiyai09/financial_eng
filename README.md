@@ -1,4 +1,5 @@
-# financial_eng
+> ⚠️ **ARCHIVED** — This work has been consolidated into:
+> - [idx-trading-system](https://github.com/alazkiyai09/idx-trading-system) — Comprehensive IDX trading platform\n\n# financial_eng
 Predict the price of Bitcoin, XRP and Etherum with LSTM, SVM and KNN.
 
 The Implementation of "Monitoring Financial Stability Based on Prediction of Cryptocurrencies Price Using Intelligent Algorithm" in Python
